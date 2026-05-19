@@ -65,7 +65,7 @@ Designed an interactive multi-page dashboard using:
 ## 🧩 Dashboard Pages
 
 ### 📌 Job Market Overview
-![Job Overview](images/Page1_job_overview.png)
+![Job Overview]()
 
 ---
 
@@ -109,8 +109,4 @@ Designed an interactive multi-page dashboard using:
 
 This project demonstrates how Power BI can transform raw AI job market data into actionable business insights using interactive dashboards, advanced DAX calculations, and professional data visualization techniques.
 
----
 
-
-Your Name  
-Aspiring Data Analyst | Power BI Developer
